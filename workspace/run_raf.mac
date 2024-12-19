@@ -1,0 +1,14 @@
+/gps/particle gamma
+/gps/pos/type Point 
+/gps/pos/centre 11.075 7.64 -30 mm 
+/gps/ene/mono 1000 GeV 
+/gps/direction 0 0 1 
+
+
+/gps/source/add 1
+/gps/particle gamma
+/gps/pos/type Point 
+/gps/pos/centre 11.075 7.24 -30 mm 
+/gps/ene/mono 1000 GeV 
+/gps/direction 0 0 1 
+/gps/source/multiplevertex 1
